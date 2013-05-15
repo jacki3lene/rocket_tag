@@ -1,2 +1,2 @@
-rvm ruby-1.9.2@rocket_tag
+rvm use ruby-1.9.3-p286@rocket_tag
 
